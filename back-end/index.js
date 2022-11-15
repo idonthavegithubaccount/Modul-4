@@ -20,3 +20,4 @@ server.listen(PORT, () => {
   // db.sequelize.sync({ alter: true });
   console.log("Success Running at PORT: " + PORT);
 });
+console.log(123);
